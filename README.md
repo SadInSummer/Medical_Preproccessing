@@ -11,3 +11,6 @@ add_size.py add blank slices into one alxil.
 
 voxel_size.py get the voxel size of nii.gz. (the image is ITK guides to get spacing or voxel size)
 ![image](https://github.com/user-attachments/assets/9145b10f-519f-4d90-9218-01cafef7b128)
+
+
+show_nii：input flow.nii and visualize the different slice and give the vector field.
