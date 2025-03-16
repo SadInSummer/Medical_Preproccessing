@@ -14,3 +14,5 @@ voxel_size.py get the voxel size of nii.gz. (the image is ITK guides to get spac
 
 
 show_nii：input flow.nii and visualize the different slice and give the vector field.
+
+read_npz.py is used to read segment labels to generation .npz.
