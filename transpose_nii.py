@@ -2,8 +2,8 @@ import nibabel as nib
 import numpy as np
 
 # 定义输入和输出路径
-input_path = "./flow.nii.gz"
-output_path = "./new_flow.nii.gz"
+input_path = "./flowww.nii.gz"
+output_path = "./newwwww_flow.nii.gz"
 
 # 读取原始形变场nii文件
 img = nib.load(input_path)
