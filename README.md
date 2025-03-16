@@ -16,3 +16,5 @@ voxel_size.py get the voxel size of nii.gz. (the image is ITK guides to get spac
 show_nii：input flow.nii and visualize the different slice and give the vector field.
 
 read_npz.py/read.py/read_labels_ids2npz.py are used to read segment labels to generation .npz.
+
+generate_affine_deform_data.py will use affine_transform.py and elastic_transform.py to generate deformabtion
