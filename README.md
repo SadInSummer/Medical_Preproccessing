@@ -18,3 +18,5 @@ show_nii：input flow.nii and visualize the different slice and give the vector 
 read_npz.py/read.py/read_labels_ids2npz.py are used to read segment labels to generation .npz.
 
 light.py is used to compare lightness between two images.
+
+shfuu.py is used to shufflue data.
